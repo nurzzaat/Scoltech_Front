@@ -1,0 +1,401 @@
+    @media only screen and (max-width: 412px) {
+        header {
+            background-image: url(https://thumb.tildacdn.com/tild3433-3863-4434-b862-636461373363/-/format/webp/data.jpg);
+            height: 167vw;
+            background-position: center center ;
+            background-attachment: scroll;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .edu-content, .br-content ,.stud-content, .lab-content, .app-content, .cont-content {
+            margin-left: 5vw;
+            margin-top: 7vw;
+        }
+        .logo{
+            width: 30vw;
+        }
+        nav {
+            overflow: hidden;
+            background-color: #333;
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-left: 0;
+        }
+        nav div {
+            display: block;
+            vertical-align: middle;
+        }
+        nav #myLinks {
+            display: none;
+        }
+        #myLinks li {
+            padding: 14px 0px;
+            margin-left: 0;
+            font-size: 19px;
+            display: block;
+            width: 40vw;
+        }
+        .btn a{
+            border-radius: 30px;
+            padding: 8px 20px;
+            font-weight: 600;
+            font-size: 13px;
+        }
+        nav a.icon {
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 0;
+            z-index: 0;
+            color: yellow;
+            padding: 14px 1px;
+            width: 10vw;
+            height: 8vw;
+            text-decoration: none;
+        }
+        .active {
+            background-color: #222;
+            color: white;
+            padding: 3vw 2vw;
+            text-decoration: none;
+            display: block;
+        }
+        .link a{
+            color: white;
+            text-decoration: none;
+            font-size: 10px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+        .apply {
+            background-color: white;
+            color: black;
+            border-radius: 30px;
+            padding: 8px 10px;
+            width: 30vw;
+            font-weight: 600;
+            font-size: 13px;
+        }
+        .master-of-science {
+            background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+            width: 100%;
+            height: 166vw;
+        }
+        .master-of-science-in {
+            margin-left: 11%;
+            padding-top: 120px;
+        }
+        .head-text h2{
+            color: #eee436;
+            font-size: 10vw;
+            font-weight: 600;
+            line-height: 12vw;
+        }
+        .head-text p{
+            color: white;
+            font-size: 3vw;
+            font-weight: 600;
+            line-height: 4vw;
+        }
+        .youtube iframe{
+            padding: 0;
+            width: 70vw;
+            height: 50vw;
+        }
+        header div {
+            display: block;
+        }
+        .apply-y {
+            display: table-cell;
+            padding: 4vw 18vw;
+            width: 13vw;
+            margin-bottom: 1vw;
+            background-color: #eee436;
+            font-weight: 600;
+        }
+        .apply-w {
+            display: table-cell ;
+            width: 27vw;
+            padding: 4.2vw 11vw;
+            background-color: white;
+            font-weight: 600;
+        }
+        .between{
+            margin-left: 5vw;
+            margin-top: 3vw;
+        }
+        .row-comp img{
+            margin: 2vw 8vw 4vw 6vw;
+            vertical-align: middle;
+        }
+        .inform .lt {
+            width: 83vw;
+            font-size: 5vw;
+            line-height: 7vw;
+        }
+        .inform img{
+            margin-top: 10vw ;
+            width: 33vw;
+        }
+        .inform .rt{
+            margin-left: 0 ;
+        }
+        .inform .rt p {
+            margin-top: 9vw;
+            font-size: 3vw;
+            width: 90vw;
+        }
+        .short-form div {
+            width: 80vw;
+            font-size: 2.6vw;
+            line-height: 3.5vw;
+        }
+        .short-form p {
+            margin: 0;
+        }
+        .short-form div img {
+            width: 8vw;
+            height: 8vw;
+            margin-right: 4vw;
+        }
+        .education h1 {
+            padding-top: 15vw;
+            font-size: 15vw;
+            color: white;
+            font-weight: 600;
+
+        }
+        .edu-content .lt{
+            font-size: 5vw;
+            line-height: 7vw;
+            width:90vw;
+        }
+        .blocks div {
+            width: 80vw;
+            height: 25vw;
+            display: inline-flex;
+            flex-wrap: wrap;
+            margin-top: 14vw;
+            line-height: 6vw;
+            font-family: 'FuturaPT';
+            font-size: 4vw;
+        }
+        .comment{
+            margin-top: 25vw;
+            margin-bottom: 10vw;
+            width: 80vw;
+            line-height: 6vw;
+            font-size: 4vw;
+        }
+        .links div{
+            display: table-cell;
+            width: 16vw;
+            height: 6vw;
+            vertical-align: middle;
+            font-size: 2vw;
+            font-weight: 400;
+            color: white;
+            background-color: #424242;
+            padding-left: 2vw;
+        }
+        .check .item img{
+            width: 10vw;
+            padding-top: 4vw;
+            padding-right: 5vw;
+        }
+        .item p{
+            width: 70vw;
+            font-size: 4vw;
+            line-height: 6vw;
+        }
+        .add{
+            margin: 70vw 0 6vw 0;
+        }
+        .faq-question {
+            width: 90vw;
+            height: 14vw;
+            padding: 1.5vw 0;
+            margin-right: 8vw;
+            margin-bottom: 1vw;
+            background-color: #f5f5f5;
+            font-family: FuturaPT, Arial, serif;
+        }
+        .panel:hover + .plus {
+            color: #eee436;
+        }
+
+        .panel-title {
+            font-size: 4vw;
+            width: 100%;
+            position: relative;
+            margin: 0;
+            padding: 2vw 2px 2vw 7vw;
+            display: block;
+            font-weight: 600;
+            vertical-align: middle;
+        }
+
+        .panel-content {
+            color: black;
+            font-size: 3vw;
+            width: 90%;
+            margin-left: 2.5vw;
+            line-height: 4vw;
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            opacity: 0;
+            -webkit-transition: .4s ease;
+            -moz-transition: .4s ease;
+            -o-transition: .4s ease;
+            transition: .4s ease;
+        }
+
+        .panel:checked ~ .panel-content {
+            height: auto;
+            opacity: 1;
+            padding: 1vw;
+        }
+
+        .plus {
+            font-weight: 600;
+            position: absolute;
+            margin-left: 1.3vw;
+            z-index: 5;
+            font-size: 7vw;
+            line-height: 100%;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            -o-user-select: none;
+            user-select: none;
+            -webkit-transition: .2s ease;
+            -moz-transition: .2s ease;
+            -o-transition: .2s ease;
+            transition: .2s ease;
+        }
+        .panel:checked ~ .plus {
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+        .panel {
+            display: none;
+        }
+        .stud-content h1{
+            padding: 20vw 0 5vw 0;
+            font-size: 6vw;
+        }
+        .img img{
+            width: 25vw;
+            border-radius: 50%;
+            margin-right: 100vw;
+        }
+        .com p{
+
+            font-size: 4vw;
+            line-height: 6vw;
+            width: 80vw;
+        }
+        .com b{
+            font-size: 3vw;
+        }
+        .com small{
+            font-size: 2.8vw;
+        }
+        .stud{
+            background-color: #eee436;
+        }
+        .lab-content h1{
+            padding-top: 15vw;
+            font-size: 19vw;
+            font-weight: 600;
+        }
+        .thrd-inf {
+            font-size: 4.5vw;
+            line-height: 7vw;
+            width: 92vw;
+            margin-bottom: 10vw;
+        }
+        .owl-carousel iframe{
+            padding-left: 0;
+            width: 90vw;
+            height: 40vw;
+        }
+        .application {
+            background-size:300% 100%;
+            height: 160vw;
+            background-image: url("https://thumb.tildacdn.com/tild6161-3237-4437-a166-343738396334/-/format/webp/Scoltech_collage_1.png");
+        }
+
+        .app {
+            background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8));
+            width: 100%;
+            height: 160vw;
+        }
+
+        .app-content h1 {
+            padding-bottom: 30vw ;
+            font-size: 17vw;
+            font-weight: 600;
+            color: white;
+        }
+
+        .app-content p {
+            color: white;
+            font-size: 6vw;
+            width: 90vw;
+            font-family: FuturaPT, Calibri;
+            line-height: 7vw;
+            margin-bottom: 8vw;
+        }
+
+        .subs {
+            font-size: 4vw;
+            width: 60vw;
+            padding: 3vw 16vw;
+            background-color: #eee436;
+            font-weight: 600;
+        }
+
+        .contact {
+            display: flex;
+            background-color: #5c5c5c;
+        }
+
+        .cont-content h1 {
+            font-size: 17vw;
+            font-weight: 600;
+            color: white;
+        }
+
+        .block {
+            padding: 6vw;
+        }
+
+        .block b {
+            color: white;
+            font-size: 4.5vw;
+            font-family: 'FuturaPT', Arial, sans-serif;
+        }
+
+        .block div {
+            color: white;
+            font-family: 'FuturaPT', Arial, sans-serif;
+            font-size: 4vw;
+            width: 70vw;
+            line-height: 5vw;
+        }
+
+        .block img:hover {
+            transform: scale(1.2);
+        }
+        .carta{
+            width: 80vw;
+            height: 80vw;
+            padding: 5vw 5vw 20vw 5vw;
+        }
+    }

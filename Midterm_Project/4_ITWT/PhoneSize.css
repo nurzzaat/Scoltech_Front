@@ -1,0 +1,420 @@
+@media only screen and (max-width: 412px) {
+    body{
+        background-image: url("https://static.tildacdn.com/tild6162-3564-4637-b363-373065616433/campus-optm.png");
+        background-position: center center ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    .logo{
+        width: 30vw;
+    }
+    nav {
+        overflow: hidden;
+        background-color: #333;
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-left: 0;
+    }
+    nav div {
+        display: block;
+        vertical-align: middle;
+    }
+    nav #myLinks {
+        display: none;
+    }
+    #myLinks li {
+        padding: 14px 0px;
+        margin-left: 0;
+        font-size: 19px;
+        display: block;
+        width: 40vw;
+    }
+    .btn a{
+        border-radius: 30px;
+        padding: 8px 20px;
+        font-weight: 600;
+        font-size: 13px;
+    }
+    nav a.icon {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 0;
+        color: yellow;
+        padding: 14px 1px;
+        width: 10vw;
+        height: 8vw;
+        text-decoration: none;
+    }
+    .active {
+        background-color: #222;
+        color: white;
+        padding: 3vw 2vw;
+        text-decoration: none;
+        display: block;
+    }
+    .link a{
+        color: white;
+        text-decoration: none;
+        font-size: 10px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+    .apply {
+        background-color: white;
+        color: black;
+        border-radius: 30px;
+        padding: 8px 10px;
+        width: 30vw;
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .adm-content ,.stud-content, .degree-content , .lab-content ,.app-content, .cont-content {
+        margin-left: 5vw;
+        margin-top: 7vw;
+    }
+    header {
+        background-image: url(https://thumb.tildacdn.com/tild3636-3230-4162-b734-656536623830/-/format/webp/iStock-1090008690.jpg);
+        height: 167vw;
+        background-position: center center ;
+        background-attachment: scroll;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .master-of-science {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+        width: 100%;
+        height: 166vw;
+    }
+    .head-text{
+        font-size: 7vw;
+        max-width: 50vw;
+    }
+    .master-of-science {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+        width: 100%;
+        height: 200vw;
+    }
+    .head-text h2{
+        color: white;
+        font-size: 7vw;
+        font-weight: 600;
+        line-height: 9vw;
+    }
+    .head-text p {
+        color: #ee9d01;
+        font-size: 2.3vw;
+        font-weight: 600;
+    }
+    .apply-y {
+        display: table-cell;
+        padding: 4vw 18vw;
+        width: 13vw;
+        margin-bottom: 1vw;
+        background-color: #eee436;
+        font-weight: 600;
+    }
+    .apply-w {
+        display: table-cell ;
+        width: 27vw;
+        padding: 4.2vw 11vw;
+        background-color: white;
+        font-weight: 600;
+    }
+    .short-form div {
+        padding-top: 5vw;
+        width: 30vw;
+        margin-right: 10vw;
+        font-size: 2.6vw;
+        line-height: 3.5vw;
+    }
+    .short-form b{
+        font-size: 3vw;
+    }
+    .short-form p {
+        margin: 0;
+    }
+    .between-content{
+        margin-left: 5vw;
+        padding-top: 3vw;
+        height: 230vw;
+    }
+    .text{
+        font-weight: 600;
+        font-size: 5vw;
+        line-height: 6vw;
+        width: 80vw;
+        padding-bottom: 7vw;
+    }
+    .left{
+        width: 80vw;
+        font-size: 5vw;
+        line-height: 6vw;
+        padding-top: 2vw;
+        float: left;
+    }
+    iframe {
+        padding: 0;
+        width: 80vw;
+        height: 50vw;
+    }
+    .iframe b{
+        font-size: 3vw;
+        font-weight: 800;
+        padding-left: 4vw;
+    }
+    .iframe small{
+        font-size: 2vw;
+        padding-left: 4vw;
+    }
+
+    .h1-between{
+        width: 17vw;
+        height: 120vw;
+        font-size: 18vw;
+        margin-left: 5vw;
+        color: #ee9d01;
+    }
+    .why-content{
+        margin-left: 5vw;
+        padding-top: 5vw;
+        height: 270vw;
+    }
+    .blocks div {
+        width: 88vw;
+        height: 50vw;
+        background-color: white;
+        margin:7vw 0;
+        font-size: 4.6vw;
+        line-height: 5vw;
+    }
+    .blocks b {
+        font-size: 5vw;
+    }
+    .blocks img {
+        width: 13vw;
+        height: 13vw;
+        margin-bottom: 2.5vw;
+    }
+    .degree-content h1 {
+        font-weight: 600;
+        font-size: 17vw;
+        color: white;
+    }
+    .circle {
+        width: 4vw;
+        height: 5vw;
+        font-size: 4vw;
+        font-weight: 600;
+        padding: .5vw 0 0 1.7vw;
+        border-radius: 50%;
+    }
+    .c1{
+        color: white;
+        border: 2px solid white;
+        background-color: #222;
+    }
+    .concrete .c2{
+        color: black;
+        border: 2px solid black;
+    }
+    .vr1 {
+        border-left: 3px solid white;
+        height: 52vw;
+    }
+    .vr2 {
+        border-left: 3px solid black;
+        height: 30vw;
+    }
+    .concrete li p {
+        width: 60vw;
+        font-size: 3vw;
+    }
+    .l1 b{
+         font-size: 5vw;
+     }
+    .l2 b{
+         font-size: 5vw;
+     }
+
+    .concrete .l1 p{
+        line-height: 5vw;
+        font-size: 5vw;
+    }
+    .l2 p{
+        line-height: 5vw;
+        font-size: 5vw;
+    }
+    .add{
+        margin: 10vw 0 6vw 0;
+    }
+    .faq-question {
+        width: 90vw;
+        height: 14vw;
+        padding: 1.5vw 0;
+        margin-right: 8vw;
+        margin-bottom: 1vw;
+        background-color: #f5f5f5;
+        font-family: FuturaPT, Arial, serif;
+    }
+    .faq-question img{
+        width: 75vw;
+    }
+
+    .panel-title {
+        font-size: 4vw;
+        width: 100%;
+        margin: 0;
+        padding: 2vw 2px 2vw 7vw;
+        font-weight: 600;
+    }
+
+    .panel-content {
+        color: black;
+        font-size: 3vw;
+        width: 90%;
+        margin-left: 2.5vw;
+        line-height: 4vw;
+        height: 0;
+        opacity: 0;
+    }
+
+    .plus {
+        font-weight: 600;
+        position: absolute;
+        margin-left: 1.3vw;
+        z-index: 5;
+        font-size: 7vw;
+        line-height: 100%;
+    }
+    .stud{
+        background-color: #ee9d01;
+        height: 185vw;
+    }
+    .stud-content h1{
+        padding: 20vw 0 5vw 0;
+        font-size: 6vw;
+    }
+    .stud-content div{
+        margin-left: 1.5vw;
+    }
+    .img img{
+        width: 25vw;
+        border-radius: 50%;
+        margin-right: 100vw;
+    }
+    .com p{
+        font-size: 4vw;
+        line-height: 6vw;
+        width: 75vw;
+    }
+    .com b{
+        font-size: 3vw;
+    }
+    .com small{
+        font-size: 3vw;
+    }
+    .lab-content h1{
+        padding-top: 15vw;
+        font-size: 19vw;
+        font-weight: 600;
+    }
+    .thrd-inf {
+        font-size: 4.5vw;
+        line-height: 7vw;
+        width: 92vw;
+        margin-bottom: 10vw;
+    }
+    .owl-carousel iframe{
+        padding-left: 0;
+        width: 90vw;
+        height: 40vw;
+    }
+    .adm-content h1{
+        font-weight: 600;
+        font-size: 15vw;
+        color: rgb(140, 67, 122);
+    }
+
+    .snd{
+        width: 80vw;
+        background-color: #42b5c7;
+    }
+    .application {
+        background-size:300% 100%;
+        height: 160vw;
+        background-image: url("https://thumb.tildacdn.com/tild6161-3237-4437-a166-343738396334/-/format/webp/Scoltech_collage_1.png");
+    }
+
+    .app {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8));
+        width: 100%;
+        height: 160vw;
+    }
+
+    .app-content h1 {
+        padding-bottom: 30vw ;
+        font-size: 17vw;
+        font-weight: 600;
+        color: white;
+    }
+
+    .app-content p {
+        color: white;
+        font-size: 6vw;
+        width: 90vw;
+        font-family: FuturaPT, Calibri;
+        line-height: 7vw;
+        margin-bottom: 8vw;
+    }
+
+    .subs {
+        font-size: 4vw;
+        width: 60vw;
+        padding: 3vw 16vw;
+        background-color: #eee436;
+        font-weight: 600;
+    }
+
+    .contact {
+        display: flex;
+        background-color: #5c5c5c;
+    }
+
+    .cont-content h1 {
+        font-size: 17vw;
+        font-weight: 600;
+        color: white;
+    }
+
+    .block {
+        padding: 6vw;
+    }
+
+    .block b {
+        color: white;
+        font-size: 4.5vw;
+        font-family: 'FuturaPT', Arial, sans-serif;
+    }
+
+    .block div {
+        color: white;
+        font-family: 'FuturaPT', Arial, sans-serif;
+        font-size: 4vw;
+        width: 70vw;
+        line-height: 5vw;
+    }
+
+    .block img:hover {
+        transform: scale(1.2);
+    }
+    .carta{
+        width: 80vw;
+        height: 80vw;
+        padding: 5vw 5vw 20vw 5vw;
+    }
+}

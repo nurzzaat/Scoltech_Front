@@ -1,0 +1,503 @@
+@media only screen and (max-width: 1920px) {
+    body {
+        margin: 0 auto;
+        font-family: 'FuturaPT', Arial, sans-serif;
+        max-width: max-content;
+    }
+    .edu-content, .fcty-content, .between, .crer-content, .lab-content,
+ .cmps-content, .faq-content, .adm-content,
+ .app-content, .cont-content {
+     margin-left: 12vw;
+     margin-top: 7vw;
+ }
+    .logo{
+        width: 9vw;
+        padding-top: 1vw;
+    }
+    nav {
+        width: 100%;
+        height: 80px;
+        position: fixed;
+        padding-left: 12%;
+        color: white;
+        display: table;
+    }
+    nav div {
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .changeColor {
+        background-color: rgba(66, 66, 66, 0.3);
+        box-shadow: rgba(0, 0, 0, 0) 0 1px 3px;
+    }
+    .header-center {
+        min-width: 320px;
+    }
+    .link{
+        display: table-cell;
+        width: 7vw;
+    }
+    .header-btn .btn{
+        display: table-cell;
+        width: 10vw;
+    }
+    .header-center a {
+        color: white;
+        text-decoration: none;
+        margin-right: 5%;
+        font-size: 10px;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+    .header-btn {
+        min-width: 20vw;
+    }
+    .apply {
+        background-color: white;
+        color: black;
+        text-decoration: none;
+        border-radius: 30px;
+        padding: 12px 30px;
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .lang{
+        text-decoration: none;
+        color: white;
+        padding-right: 6vw;
+    }
+    header {
+        background-image: url("https://thumb.tildacdn.com/tild3232-3062-4838-b662-343366336538/-/format/webp/TSL_3326-99.jpg");
+        background-size: 100% 100%;
+        height:45vw;
+    }
+    .head-text {
+        color: #eee436;
+        font-size: 5vw;
+        font-weight: bold;
+    }
+    .master-of-science {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+        width: 100%;
+        height: 45vw;
+    }
+    .master-of-science-in {
+        margin-left: 11%;
+        padding-top: 120px;
+    }
+    header div {
+        display: inline-block;
+    }
+    .links {
+        margin: 5vw 1vw 5vw 1vw;
+    }
+    .links td {
+        height: 3vw;
+        font-size: .8vw;
+        font-weight: 600;
+        width: 12.4vw;
+    }
+    .links a {
+        color: white;
+        text-decoration: none;
+        font-family: 'FuturaPT', Arial, sans-serif;
+        letter-spacing: 0.05vw;
+        padding-bottom: .2vw;
+        border-bottom-style: solid;
+        border-bottom-width: 0.01vw;
+        width: fit-content;
+    }
+    .apply-y {
+        padding: 1.9% 10.5%;
+        background-color: #eee436;
+        font-weight: 600;
+        float: left;
+    }
+    .apply-w {
+        padding: 1.9% 6.5%;
+        margin-left: 1vw;
+        background-color: white;
+        font-weight: 600;
+    }
+    .inform {
+        font-size: 1.2vw;
+        line-height: 1.7vw;
+        width: 42vw;
+    }
+    .short-form div {
+        margin: 5vw 1vw 0 0 ;
+        display: inline-flex;
+        line-height: 1.5vw;
+        width: 18vw;
+        min-width: 200px;
+    }
+    .short-form p {
+        margin: 0;
+    }
+    .short-form div img {
+        width: 2.5vw;
+        height: 2.5vw;
+        float: left;
+        margin-right: 1vw;
+    }
+    .education, .faq {
+        background-color: #fafafa;
+    }
+    .education h1 {
+        padding-top: 8vw;
+        font-size: 4.6vw;
+        color: #e6de00;
+        font-weight: 600;
+    }
+    .blocks div {
+        width: 20vw;
+        height: 18vw;
+        background-color: white;
+        display: inline-flex;
+        flex-wrap: wrap;
+        margin-right: 2.5vw;
+        line-height: 2vw;
+        margin-bottom: 3.2vw;
+        padding: 2.2vw;
+    }
+    .blocks b {
+        font-size: 1.3vw;
+    }
+    .comments {
+        padding: 5vw 0 6vw 0;
+    }
+    .comments small {
+        vertical-align: top;
+        display: inline-flex;
+        width: 28vw;
+        line-height: 1.2vw;
+        min-width: 340px;
+        margin-right: 2vw ;
+    }
+    .comments img {
+        margin-right: 1vw;
+    }
+    .faculty {
+        display: flex;
+        background-color: #f5f5f5;
+    }
+
+    .fcty-content h1 {
+        font-size: 5vw;
+        color: #ceb302;
+        font-weight: 600;
+    }
+
+    .scnd-inf {
+        font-size: 1.2vw;
+        line-height: 1.8vw ;
+        width: 47vw;
+    }
+    .prof {
+        margin-top: 4vw;
+    }
+    .row span {
+        margin-right: 3vw;
+        margin-bottom: 3.7vw;
+        float: left;
+        font-size: .9vw;
+        font-weight: 600;
+    }
+    .crer-content h1 {
+        color: #00b7ff;
+        font-size: 5vw;
+        font-weight: 600;
+    }
+    .cre-content-inf {
+        float: left;
+        font-size: 1.15vw;
+        border: 2vw;
+        border-right-style: solid;
+        border-right-color: #2ac0fb;
+        border-right-width: .12vw;
+        background-color:#00b7ff ;
+        width: 19.65vw;
+        height: 15vw;
+        padding: 2vw;
+        padding-left: 2.6vw;
+        padding-right: 2.8vw;
+    }
+    .cre-content-inf b {
+        color: white;
+        font-size: 1.3vw;
+    }
+    .empty{
+        height: 20vw;
+    }
+    .row-comp img{
+        margin: 1vw 2.3vw 2vw 2vw;
+        vertical-align: middle;
+    }
+    .labs {
+        background-color: #00b7ff;
+    }
+    .lab-content h1 {
+        padding-top: 7vw;
+        color: white;
+        font-size: 5vw;
+        font-weight: 600;
+    }
+    .thrd-inf   {
+        font-size: 1.3vw;
+        line-height: 2vw;
+        width: 52vw;
+        color: white;
+        margin-bottom: 2vw;
+    }
+    .cmps-content h1 {
+        color: #8b7fd4;
+        padding-top: 7vw;
+        font-size: 5vw;
+        font-weight: 600;
+    }
+    .img {
+        margin: 2vw 0;
+    }
+    .img p {
+        font-size: 1.3vw;
+        width: 25.6vw;
+        float: left;
+        margin: 2vw 13vw 0 2vw;
+    }
+    .row-com p {
+        padding: 2.2vw 2.5vw;
+        color: black;
+        background-color: #eee436;
+        font-weight: 530;
+        font-size: 1.2vw;
+        font-family: FuturaPT, Calibri;
+        line-height: 1.7vw;
+    }
+    .table div{
+        width: 36vw;
+        height: 28vw;
+        display: inline-flex;
+        flex-wrap: wrap;
+    }
+    .com-cont p{
+        background-color: #eee436;
+        margin-right: 2.5vw;
+        line-height: 1.5vw;
+        padding: 2.5vw;
+        margin-bottom: 0;
+        border-radius: 2vw ;
+    }
+    .com-cont .triangle {
+        width: .1vw;
+        height: .1vw;
+        border-left: 0 solid transparent;
+        border-right: 2vw solid transparent;
+        border-top: 2vw solid #eee436;
+        margin-left: 2.4vw;
+        margin-bottom: 2vw;
+    }
+
+    .com-cont img {
+        border-radius: 50%;
+        float: left;
+        margin-right: 1vw;
+    }
+    .name b{
+        font-size: .9vw;
+    }
+    .name small {
+        color: #797979;
+        line-height: .7vw;
+    }
+    .faq-content h1 {
+        padding-top: 7vw;
+        font-size: 5vw;
+        font-weight: 600;
+        color: #eee436;
+    }
+
+    .faq-column{
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 5vw;
+    }
+    .faq-question {
+        width: 22vw;
+        padding: 1.5vw 0;
+        margin-right: 4vw;
+        margin-bottom: 1vw;
+        display: flex;
+        flex-wrap: wrap;
+        font-family: FuturaPT, Arial, serif;
+        border-bottom: .15vw dotted #ccc;
+    }
+
+    .panel:hover + .plus {
+        color: #eee436;
+    }
+
+    .panel-title {
+        font-size: 1.3vw;
+        width: 100%;
+        position: relative;
+        margin: 0;
+        padding: .5vw .5px 0 3.4vw;
+        display: block;
+        cursor: pointer;
+        font-weight: 600;
+        vertical-align: middle;
+    }
+
+    .panel-content {
+        color: black;
+        font-size: .9vw;
+        width: 100%;
+        margin-left: 2.5vw;
+        line-height: 1.6vw;
+        height: 0;
+        overflow: hidden;
+        position: relative;
+        opacity: 0;
+        -webkit-transition: .4s ease;
+    }
+
+    .panel:checked ~ .panel-content {
+        height: auto;
+        opacity: 1;
+        padding: 1vw;
+    }
+
+    .plus {
+        font-weight: 600;
+        position: absolute;
+        margin-left: 1.3vw;
+        z-index: 5;
+        font-size: 2.5vw;
+        line-height: 100%;
+        -webkit-user-select: none;
+        user-select: none;
+        transition: .2s ease;
+    }
+
+    .panel:checked ~ .plus {
+        transform: rotate(45deg);
+    }
+
+    .panel {
+        display: none;
+    }
+    .adm-content h1 {
+        font-weight: 600;
+        font-size: 5vw;
+    }
+
+    .steps {
+        padding-top: 5vw;
+    }
+
+    .circle {
+        width: 1.5vw;
+        height: 1.5vw;
+        font-size: 1.3vw;
+        font-weight: 600;
+        padding: .4vw 0 0 .6vw;
+        border-radius: 50%;
+        border: 1px solid;
+        background-color: #eee436;
+    }
+
+    .vr {
+        border-left: 2px solid black;
+        height: 6vw;
+    }
+
+    .concrete div {
+        display: inline-flex;
+        vertical-align: top;
+        margin: 0 1vw;
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    li p {
+        color: #757575;
+        font-size: 1vw;
+        font-weight: 400;
+        font-family: 'FuturaPT';
+    }
+
+    .application {
+        background-size: 100% 100%;
+        height: 43vw;
+        background-image: url("https://thumb.tildacdn.com/tild6161-3237-4437-a166-343738396334/-/format/webp/Scoltech_collage_1.png");
+    }
+
+    .app {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8));
+        width: 100%;
+        height: 43vw;
+    }
+
+    .app-content h1 {
+        padding: 6.5vw 0;
+        font-size: 5.2vw;
+        font-weight: 600;
+        color: white;
+    }
+
+    .app-content p {
+        color: white;
+        font-size: 1.3vw;
+        width: 36vw;
+        font-family: FuturaPT, Calibri;
+        line-height: 1.7vw;
+        margin-bottom: 4.3vw;
+    }
+
+    .subs {
+        font-size: 1vw;
+        width: 13vw;
+        padding: 1.3vw 3vw;
+        background-color: #eee436;
+        font-weight: 600;
+    }
+
+    .contact {
+        display: flex;
+        background-color: #5c5c5c;
+    }
+
+    .cont-content h1 {
+        font-size: 5.2vw;
+        font-weight: 600;
+        color: white;
+    }
+
+    .block {
+        padding: 2vw 2vw 8vw 0;
+    }
+
+    .block b {
+        color: white;
+        font-size: 1.3vw;
+        font-family: 'FuturaPT', Arial, sans-serif;
+    }
+
+    .block div {
+        color: white;
+        font-family: 'FuturaPT', Arial, sans-serif;
+        font-size: 1.1vw;
+        width: 30vw;
+        line-height: 1.5vw;
+    }
+
+    .block img:hover {
+        transform: scale(1.2);
+    }
+    .carta{
+        width:43vw;
+        height: 20vw;
+    }
+}
